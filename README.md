@@ -30,4 +30,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Learn More
 
-You can learn more in the [extremely long blog post I wrote](http://thirdbear.substack.com/building-voice-claude-adding-prompt-caching).
+You can learn more in the [extremely long blog post I wrote](http://thirdbear.substack.com/p/building-voice-claude-adding-prompt-caching).
